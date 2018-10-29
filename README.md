@@ -1,6 +1,6 @@
 # webhook-testing
 
-Very basic API to test Github webhooks.
+Very basic API to test Github webhooks (also to try out Javalin)
 
 Endpoints:
 
